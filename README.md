@@ -47,6 +47,8 @@ This project includes a `src/components` folder containing several React compone
 
 ### Task 3: Stretch Problems
 
+Link to PR for stretch: https://github.com/BUGBOUNTYchrisg8691/todo_list-stretch-mod1/pull/1
+
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
 #### Stretch Goal 1 (To-Do List)
